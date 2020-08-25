@@ -1,0 +1,17 @@
+Software de um único Hospital
+
+User Journey / User Story
+
+Usuário -> Quem usa o software
+
+- Como usuário, eu posso internar um paciente em um quarto, para
+manter o controle de quantas vagas nós ainda temos no hospital.
+- Como usuário, eu posso marcar uma consulta, para saber quais médicos
+estarão ocupados naquela determinada hora.
+
+Informações Extra:
+
+Toda consulta é feita de um paciente, de um médico e da data.
+O hospital tem quartos, onde podemos internar pacientes.
+
+-> Models: Paciente, Quarto, Médico, Agendamento/Consulta
